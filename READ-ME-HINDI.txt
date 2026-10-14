@@ -1,0 +1,10 @@
+आसान तरीका:
+1. ZIP को Extract All करें।
+2. GitHub repository खोलें:
+https://github.com/SHIVA-HEARING-AID-SPECH-CENTRE/SHIVA-HEARING-AID-SPEECH-CENTRE
+3. पुरानी index.html को खोलकर Delete file > Commit changes करें।
+4. Add file > Upload files पर जाएँ और इस ZIP से निकली index.html अपलोड करें।
+5. Commit changes दबाएँ। 2–5 मिनट बाद वेबसाइट refresh करें।
+
+इस index.html में logo और hearing aid की illustrations इसी फ़ाइल के अंदर हैं। अलग फोटो फाइलों की जरूरत नहीं है।
+फोन/WhatsApp: 6206879387
